@@ -116,3 +116,15 @@ Based on the findings of the analysis, the following recommendations are propose
 **Monthly and YTD Monitoring:** The organisation should establish regular monthly and YTD budget reviews to monitor fluctuations in financial performance, identify inconsistent patterns across reporting periods and address deviations from budget targets early.
 
 **Supporting Documentation:** Management should ensure that accurate invoices, payment records and departmental reports are maintained to support further investigation into whether identified variances result from timing differences, one-off events or recurring financial pressures.
+
+## **Limitations**
+
+The analysis was subject to the following limitations:
+
+**Limited Supporting Records:** Invoice-level records, payment records and detailed departmental financial schedules were not available to support a more comprehensive investigation of the variances.
+
+**Unverified Variance Causes:** The underlying causes of individual variances could not be independently established, making it difficult to determine whether they resulted from timing differences, one-off events or recurring financial pressures.
+
+**Missing Budget Values:** Eight budget values were missing from the supplied dataset and were therefore excluded from variance percentage calculations to avoid misleading results.
+
+**Scope of Available Data:** The analysis was limited to the financial data supplied, which restricted the extent of additional investigation and validation that could be carried out.
