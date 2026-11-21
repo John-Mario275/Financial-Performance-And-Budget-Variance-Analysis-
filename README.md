@@ -73,3 +73,14 @@ The analysis revealed the following key findings:
   
 **MATERIALITY ASSESSMENT**
 - Certain accounts across the departments recorded material variances exceeding the 5% threshold, with Customer Service exhibiting the most unfavourable financial performance.
+
+## **10. Visualizations**
+
+The Power BI dashboards incorporated the following visuals to address the project objectives:
+
+- **KPI Cards:** Display key financial indicators, including YTD totals, actuals, budget, absolute variance, variance percentage, threshold, materiality status and financial performance.
+- **Absolute Variance by Department:** Highlights departments with the largest financial deviations.
+- **Absolute Variance by Account:** Identifies accounts contributing most to budget variances.
+- **Income and Expenditure Performance:** Compares actual revenue and expenditure against their respective budgets.
+- **Monthly Variance Trends:** Tracks changes in financial variances across the reporting period.
+- **Detailed Variance Table:** Highlights material department-account combinations and their financial performance status.
