@@ -42,3 +42,11 @@ The analysis followed a systematic process involving the following stages:
 - **Materiality Assessment**: Applied a 5% materiality threshold to identify significant budget deviations requiring management attention.
 - **Trend Analysis**: Examined monthly and year-to-date financial movements to identify performance patterns and emerging trends.
 - **Dashboard Development and Reporting**: Designed interactive Power BI dashboards to communicate findings and support management decision-making.
+## Exploratory Data Analysis
+The exploratory data analysis focused on examining financial performance across the organisation through the following areas:
+
+- **Variance Assessment**: Examined absolute and percentage budget variances across departments and financial accounts.
+- **Income and Expenditure Analysis**: Evaluated revenue and expenditure performance against their respective budget allocations.
+- **Trend Analysis**: Investigated monthly and year-to-date financial movements to identify performance patterns and fluctuations.
+- **Materiality Assessment**: Identified significant variances exceeding the 5% materiality threshold and distinguished them from below-threshold deviations.
+- **Performance Classification**: Assessed favourable and unfavourable financial outcomes based on the nature of income and expenditure variances.
