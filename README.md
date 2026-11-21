@@ -31,3 +31,14 @@ Currency: Nigerian Naira (₦).
 -	DAX
 -	CSV dataset
 
+## Methodology
+The analysis followed a systematic process involving the following stages:
+
+- Data Profiling and Assessment: Examined the dataset to identify missing values, duplicate records, inconsistencies and other data quality issues.
+- Data Cleaning and Transformation: Used Power Query to clean, restructure and prepare the financial records for analysis.
+- Financial Measure Development: Created calculated measures using DAX to support financial performance evaluation.
+- Variance Calculation: Computed actual values, budget figures, absolute variances and percentage variances.
+- Performance Analysis: Evaluated financial performance across departments, accounts, income and expenditure categories.
+- Materiality Assessment: Applied a 5% materiality threshold to identify significant budget deviations requiring management attention.
+- Trend Analysis: Examined monthly and year-to-date financial movements to identify performance patterns and emerging trends.
+- Dashboard Development and Reporting: Designed interactive Power BI dashboards to communicate findings and support management decision-making.
