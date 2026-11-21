@@ -11,3 +11,14 @@ The analysis aims to:
 -	Evaluate monthly and year-to-date movements in budget variances.
 -	Highlight material variances requiring investigation and accountability from departmental owners.
 -	Establish the evidence required to determine whether identified variances result from timing differences, non-recurring events or persistent financial pressures.
+## Dataset Description
+The project uses a financial dataset containing 638 original records covering January 2025 to June 2026.
+The dataset contains six columns:
+-	Period
+-	Department
+-	Account
+-	Type
+-	Budget
+-	Actual
+It covers five departments: Administration, Customer Service, Operations, Sales and Technology.
+Currency: Nigerian Naira (₦).
