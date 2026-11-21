@@ -23,3 +23,10 @@ The dataset contains six columns:
   
 It covers five departments: Administration, Customer Service, Operations, Sales and Technology.
 Currency: Nigerian Naira (₦).
+
+## Tools and Technologies Used
+-	Microsoft Power BI
+-	Power Query
+-	DAX
+-	CSV dataset
+
