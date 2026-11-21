@@ -173,3 +173,17 @@ Financial-Performance-Budget-Variance/
 - **Screenshots:** Contains images of the three dashboard views: overall, expenditure and income performance.
 - **Documentation:** Contains the detailed project report in PDF format.
 - **README.md:** Provides an overview of the project, including its objectives, methodology, key findings, recommendations and limitations.
+
+##** Contributors**
+
+- **Project Analyst:** John Idajor
+- **Mentor:** Mr. Mfon
+
+## **References**
+
+The following resources were consulted and used in carrying out this project:
+
+1. Project 03: *Financial Performance & Budget Variance Analysis* (Mentorship Project).
+2. Supplied financial dataset (`dataset_raw.csv`).
+3. Microsoft Power BI Documentation: [https://learn.microsoft.com/en-us/power-bi/](https://learn.microsoft.com/en-us/power-bi/)
+4. Microsoft DAX Documentation: [https://learn.microsoft.com/en-us/dax/](https://learn.microsoft.com/en-us/dax/)
