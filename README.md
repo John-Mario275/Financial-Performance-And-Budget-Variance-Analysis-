@@ -102,3 +102,17 @@ The analysis revealed the following key insights:
 - The trend analysis reveals inconsistent financial performance across the reporting periods, with monthly variances fluctuating considerably from the organisation’s budget targets.
 - Material variances highlighted specific accounts requiring further management attention and departmental accountability.
 - While the dataset identifies the magnitude and location of financial deviations, it does not contain sufficient supporting records to establish their underlying causes.
+
+## **Recommendations**
+
+Based on the findings of the analysis, the following recommendations are proposed:
+
+**Departmental and Account-Level Review:** Management should prioritise departments and specific accounts with the largest material variances for review to ensure that significant deviations receive appropriate attention.
+
+**Variance Accountability:** The organisation is encouraged to request explanations from relevant department owners for significant differences between actual and budgeted figures and ensure that appropriate corrective actions are implemented.
+
+**Income and Expenditure Control:** Management should strengthen expenditure monitoring to address budget overruns while sustaining activities that contribute to income performance in line with budget expectations.
+
+**Monthly and YTD Monitoring:** The organisation should establish regular monthly and YTD budget reviews to monitor fluctuations in financial performance, identify inconsistent patterns across reporting periods and address deviations from budget targets early.
+
+**Supporting Documentation:** Management should ensure that accurate invoices, payment records and departmental reports are maintained to support further investigation into whether identified variances result from timing differences, one-off events or recurring financial pressures.
