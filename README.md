@@ -142,3 +142,34 @@ To enhance the accuracy, efficiency and overall value of the financial analysis,
 **Financial Forecasting:** Management should introduce financial forecasting to anticipate future income and expenditure patterns, support budget planning and enable proactive financial decisions.
 
 **Continuous Variance Monitoring:** The organisation should strengthen recurring variance monitoring and investigation to identify unusual financial patterns, understand their underlying causes and take timely corrective actions.
+
+## Repository Structure
+
+The project repository is organised into folders to make the dataset, Power BI dashboard, visual outputs and supporting documentation easy to locate and access.
+
+```text
+Financial-Performance-Budget-Variance/
+│
+├── Dataset/
+│   └── dataset_raw.csv
+│
+├── Dashboard/
+│   └── Financial_Performance_Dashboard.pbix
+│
+├── Screenshots/
+│   ├── Overall_Performance.png
+│   ├── Expenditure_Performance.png
+│   └── Income_Performance.png
+│
+├── Documentation/
+│   └── Project_Report.pdf
+│
+└── README.md
+```
+
+**Folder descriptions:**
+- **Dataset:** Contains the raw financial dataset used for the analysis.
+- **Dashboard:** Contains the Power BI dashboard file.
+- **Screenshots:** Contains images of the three dashboard views: overall, expenditure and income performance.
+- **Documentation:** Contains the detailed project report in PDF format.
+- **README.md:** Provides an overview of the project, including its objectives, methodology, key findings, recommendations and limitations.
