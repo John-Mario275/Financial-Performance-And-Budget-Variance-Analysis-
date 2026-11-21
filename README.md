@@ -50,3 +50,26 @@ The exploratory data analysis focused on examining financial performance across 
 - **Trend Analysis**: Investigated monthly and year-to-date financial movements to identify performance patterns and fluctuations.
 - **Materiality Assessment**: Identified significant variances exceeding the 5% materiality threshold and distinguished them from below-threshold deviations.
 - **Performance Classification**: Assessed favourable and unfavourable financial outcomes based on the nature of income and expenditure variances.
+## Key Findings
+The analysis revealed the following key findings:
+
+**OVERALL FINANCIAL PERFORMANCE**
+- Combined actual and budget totals amounted to approximately ₦24.05 million, comprising ₦12.11 million in actuals and ₦11.93 million in budget allocations.
+- The organisation recorded an absolute variance of approximately ₦175.55 thousand, representing an overall variance of 1.47%, below the established 5% materiality threshold.
+
+**DEPARTMENTAL AND ACCOUNT-LEVEL PERFORMANCE**
+- Technology recorded the highest departmental absolute variance at approximately ₦79,000.
+- Payroll recorded the largest account-level absolute variance at approximately ₦72,000.
+
+**INCOME AND EXPENDITURE PERFORMANCE**
+- Expenditure actuals of approximately ₦10.322 million exceeded the budget of ₦10.187 million, resulting in an unfavourable variance.
+- Income actuals of approximately ₦1.788 million surpassed the budget of ₦1.748 million, indicating favourable revenue performance.
+
+**MONTHLY PERFORMANCE TRENDS**
+- February 2025 recorded the highest expenditure absolute variance at approximately ₦68,000.
+- June 2025 recorded the highest income absolute variance at approximately ₦22,000.
+- May 2026 recorded the highest income absolute variance at approximately ₦29,000.
+- June 2026 recorded the highest expenditure absolute variance at approximately ₦27,000.
+  
+**MATERIALITY ASSESSMENT**
+- Certain accounts across the departments recorded material variances exceeding the 5% threshold, with Customer Service exhibiting the most unfavourable financial performance.
