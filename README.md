@@ -6,6 +6,7 @@ Management currently faces difficulties identifying the departments and accounts
 Meridian Community Services Network is a simulated organisation used as the foundation for this financial analysis. The project examines its departmental financial performance through budget monitoring, variance assessment and performance reporting to provide management with reliable insights for planning, accountability and strategic decision-making.
 ## Objectives of the Analysis
 The analysis aims to:
+
 •	Identify departments and accounts with the highest absolute and percentage budget variances.
 •	Assess the extent to which revenue shortfalls and expenditure overruns influence overall financial performance.
 •	Evaluate monthly and year-to-date movements in budget variances.
