@@ -95,6 +95,7 @@ The Power BI report consists of three interactive dashboard views:
 
 ## **Business Insights**
 
+The analysis revealed the following key insights:
 - Expenditure overruns were the primary contributor to the unfavourable expenditure position, despite income exceeding budget expectations.
 - Technology recorded the highest departmental absolute variance, while Payroll had the largest account-level variance.
 - Although the overall variance of 1.47% remained below the 5% materiality threshold, specific department-account combinations recorded material variances.
