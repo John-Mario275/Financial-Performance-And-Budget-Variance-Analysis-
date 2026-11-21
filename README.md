@@ -22,6 +22,7 @@ The dataset contains six columns:
 -	Actual
   
 It covers five departments: Administration, Customer Service, Operations, Sales and Technology.
+
 Currency: Nigerian Naira (₦).
 
 ## Tools and Technologies Used
