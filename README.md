@@ -93,4 +93,11 @@ The Power BI report consists of three interactive dashboard views:
 2. **Expenditure Performance:** Examines spending patterns and budget variances.
 3. **Income Performance:** Evaluates revenue performance against budget expectations.
 
-Screenshots of all three dashboard views are included in the project repository.
+## **Business Insights**
+
+- Expenditure overruns were the primary contributor to the unfavourable expenditure position, despite income exceeding budget expectations.
+- Technology recorded the highest departmental absolute variance, while Payroll had the largest account-level variance.
+- Although the overall variance of 1.47% remained below the 5% materiality threshold, specific department-account combinations recorded material variances.
+- The trend analysis reveals inconsistent financial performance across the reporting periods, with monthly variances fluctuating considerably from the organisation’s budget targets.
+- Material variances highlighted specific accounts requiring further management attention and departmental accountability.
+- While the dataset identifies the magnitude and location of financial deviations, it does not contain sufficient supporting records to establish their underlying causes.
