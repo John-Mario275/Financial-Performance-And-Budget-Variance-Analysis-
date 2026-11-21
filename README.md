@@ -84,3 +84,13 @@ The Power BI dashboards incorporated the following visuals to address the projec
 - **Income and Expenditure Performance:** Compares actual revenue and expenditure against their respective budgets.
 - **Monthly Variance Trends:** Tracks changes in financial variances across the reporting period.
 - **Detailed Variance Table:** Highlights material department-account combinations and their financial performance status.
+
+## **11. Dashboard Screenshots**
+
+The Power BI report consists of three interactive dashboard views:
+
+1. **Overall Financial Performance:** Provides a summary of the organisation's financial position.
+2. **Expenditure Performance:** Examines spending patterns and budget variances.
+3. **Income Performance:** Evaluates revenue performance against budget expectations.
+
+Screenshots of all three dashboard views are included in the project repository.
