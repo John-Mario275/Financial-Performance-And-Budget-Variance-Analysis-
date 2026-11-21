@@ -74,7 +74,7 @@ The analysis revealed the following key findings:
 **MATERIALITY ASSESSMENT**
 - Certain accounts across the departments recorded material variances exceeding the 5% threshold, with Customer Service exhibiting the most unfavourable financial performance.
 
-## **10. Visualizations**
+## **Visualizations**
 
 The Power BI dashboards incorporated the following visuals to address the project objectives:
 
@@ -85,7 +85,7 @@ The Power BI dashboards incorporated the following visuals to address the projec
 - **Monthly Variance Trends:** Tracks changes in financial variances across the reporting period.
 - **Detailed Variance Table:** Highlights material department-account combinations and their financial performance status.
 
-## **11. Dashboard Screenshots**
+## **Dashboard Screenshots**
 
 The Power BI report consists of three interactive dashboard views:
 
