@@ -1,6 +1,26 @@
 # Financial-Performance-And-Budget-Variance-Analysis
+
 ## Table of Contents
-- [Business Problem Statement](#business problem statement)
+
+- [Project Title](#financial-performance-and-budget-variance-analysis)
+- [Business Problem Statement](#-business-problem-statement)
+- [Company Background](#-company-background)
+- [Objectives of the Analysis](#-objectives-of-the-analysis)
+- [Dataset Description](#-dataset-description)
+- [Tools and Technologies Used](#-tools-and-technologies-used)
+- [Methodology](#-methodology)
+- [Exploratory Data Analysis](#-exploratory-data-analysis)
+- [Key Findings](#-key-findings)
+- [Visualizations](#-visualizations)
+- [Dashboard Screenshots](#-dashboard-screenshots)
+- [Business Insights](#-business-insights)
+- [Recommendations](#-recommendations)
+- [Limitations](#-limitations)
+- [Future Improvements](#-future-improvements)
+- [Repository Structure](#-repository-structure)
+- [Contributors](#-contributors)
+- [References](#-references)
+
 An interactive financial analysis project developed to evaluate budget performance across departments and accounts using Power BI.
 ## Business Problem Statement
 Management currently faces difficulties identifying the departments and accounts responsible for significant deviations from budgeted financial expectations due to inconsistencies in reported figures. A reliable actual-versus-budget analysis is needed to establish a clear basis for measuring financial performance, distinguishing favourable from unfavourable variances and prioritising material issues for further investigation.
