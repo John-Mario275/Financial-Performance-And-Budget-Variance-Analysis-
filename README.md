@@ -117,7 +117,6 @@ The Power BI report consists of three interactive dashboard views:
 3. **Income Performance:** Evaluates revenue performance against budget expectations.
 ## Dashboard Screenshots
 
-### Overall Performance
 ![Overall Performance](Dashboard%20Screenshots/overall-performance.png)
 
 ### Expenditure Performance
