@@ -3,24 +3,28 @@ An interactive financial analysis project developed to evaluate budget performan
 
 ## Table of Contents
 
+
+## Table of Contents
+
 - [Project Title](#financial-performance-and-budget-variance-analysis)
-- [Business Problem Statement](#-business-problem-statement)
-- [Company Background](#-company-background)
-- [Objectives of the Analysis](#-objectives-of-the-analysis)
-- [Dataset Description](#-dataset-description)
-- [Tools and Technologies Used](#-tools-and-technologies-used)
-- [Methodology](#-methodology)
-- [Exploratory Data Analysis](#-exploratory-data-analysis)
-- [Key Findings](#-key-findings)
-- [Visualizations](#-visualizations)
-- [Dashboard Screenshots](#-dashboard-screenshots)
-- [Business Insights](#-business-insights)
-- [Recommendations](#-recommendations)
-- [Limitations](#-limitations)
-- [Future Improvements](#-future-improvements)
-- [Repository Structure](#-repository-structure)
-- [Contributors](#-contributors)
-- [References](#-references)
+- [Business Problem Statement](#business-problem-statement)
+- [Company Background](#company-background)
+- [Objectives of the Analysis](#objectives-of-the-analysis)
+- [Dataset Description](#dataset-description)
+- [Tools and Technologies Used](#tools-and-technologies-used)
+- [Methodology](#methodology)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Key Findings](#key-findings)
+- [Visualizations](#visualizations)
+- [Dashboard Screenshots](#dashboard-screenshots)
+- [Business Insights](#business-insights)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [Future Improvements](#future-improvements)
+- [Repository Structure](#repository-structure)
+- [Contributors](#contributors)
+- [References](#references)
+
 
 
 ## Business Problem Statement
