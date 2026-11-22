@@ -115,7 +115,16 @@ The Power BI report consists of three interactive dashboard views:
 1. **Overall Financial Performance:** Provides a summary of the organisation's financial position.
 2. **Expenditure Performance:** Examines spending patterns and budget variances.
 3. **Income Performance:** Evaluates revenue performance against budget expectations.
+## Dashboard Screenshots
 
+### Overall Performance
+![Overall Performance](Dashboard%20Screenshots/overall-performance.png)
+
+### Expenditure Performance
+![Expenditure Performance](Dashboard%20Screenshots/expenditure-performance.png)
+
+### Income Performance
+![Income Performance](Dashboard%20Screenshots/income-performance.png)
 ## **Business Insights**
 
 The analysis revealed the following key insights:
