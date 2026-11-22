@@ -1,0 +1,639 @@
+Period,Department,Account,Type,Budget,Actual
+2025-01,Sales,Revenue,Income,31027.69,35986.04
+2025-01,Sales,Payroll,Expense,32008.04,27213.73
+2025-01,Sales,Marketing,Expense,25082.83,31528.06
+2025-01,Sales,Utilities,Expense,23115.23,26013.43
+2025-01,Sales,Logistics,Expense,48534.65,54589.87
+2025-01,Sales,Software,Expense,10489.21,10421.47
+2025-01,Sales,Rent,Expense,44162.17,30514.8
+2025-01,Operations,Revenue,Income,16549.21,17638.8
+2025-01,Operations,Payroll,Expense,23984.86,26569.88
+2025-01, Operations ,Marketing,Expense,25190.34,23893.46
+2025-01,Operations,Utilities,Expense,48629.75,48858.04
+2025-01,Operations,Logistics,Expense,23341.5,23648.31
+2025-01, Operations ,Software,Expense,42707.17,32347.35
+2025-01,Operations,Rent,Expense,54560.71,48726.41
+2025-01,Administration,Revenue,Income,55158.19,49465.77
+2025-01,Administration,Payroll,Expense,15397.45,14212.53
+2025-01,Administration,Marketing,Expense,8696.75,7471.29
+2025-01,Administration,Utilities,Expense,19646.58,20453.48
+2025-01,Administration,Logistics,Expense,38478.75,44489.3
+2025-01,Administration,Software,Expense,54211.18,55231.26
+2025-01,Administration,Rent,Expense,13474.49,12697.67
+2025-01,Technology,Revenue,Income,15660.5,14619.12
+2025-01,Technology,Payroll,Expense,8299.59,7659.49
+2025-01,Technology,Marketing,Expense,22083.34,26154.95
+2025-01,Technology,Utilities,Expense,43974.86,49726.7
+2025-01,Technology,Logistics,Expense,17887.13,19632.89
+2025-01,Technology,Software,Expense,54026.13,44641.74
+2025-01,Technology,Rent,Expense,26564.65,20803.33
+2025-01,Customer Service,Revenue,Income,44962.29,57642.64
+2025-01,Customer Service,Payroll,Expense,,35881.18
+2025-01,Customer Service,Marketing,Expense,37952.76,38070.05
+2025-01,Customer Service,Utilities,Expense,44087.23,37456.58
+2025-01,Customer Service,Logistics,Expense,15731.35,16240.49
+2025-01,Customer Service,Software,Expense,38334.95,39103.33
+2025-01,Customer Service,Rent,Expense,35947.19,40910.33
+2025-02,Sales,Revenue,Income,,9491.17
+2025-02,Sales,Payroll,Expense,21351.02,21146.26
+2025-02,Sales,Marketing,Expense,29052.18,28982.04
+2025-02,Sales,Utilities,Expense,41207.16,34170.36
+2025-02,Sales,Logistics,Expense,13501.04,14451.7
+2025-02,Sales,Software,Expense,18366.85,23236.4
+2025-02,Sales,Rent,Expense,18942.08,17543.07
+2025-02,Operations,Revenue,Income,14397.7,11628.53
+2025-02,Operations,Payroll,Expense,18363.51,14666.84
+2025-02,Operations,Marketing,Expense,45174.76,50503.67
+2025-02,Operations,Utilities,Expense,,38664.81
+2025-02,Operations,Logistics,Expense,19458.49,18891.73
+2025-02,Operations,Software,Expense,44473.04,40226.28
+2025-02,Operations,Rent,Expense,23278.34,20587.57
+2025-02,Administration,Revenue,Income,9800.48,8986.49
+2025-02,Administration,Payroll,Expense,35926.55,36474.15
+2025-02,Administration,Marketing,Expense,34419.38,34283.95
+2025-02,Administration,Utilities,Expense,13501.56,12848.83
+2025-02,Administration,Logistics,Expense,17786.15,17043.66
+2025-02,Administration,Software,Expense,18915.16,20239.96
+2025-02,Administration,Rent,Expense,23312.1,25352.05
+2025-02,Technology,Revenue,Income,42909.39,48268.03
+2025-02,Technology,Payroll,Expense,22732.5,28291.1
+2025-02,Technology,Marketing,Expense,31274.94,31529.72
+2025-02,Technology,Utilities,Expense,47836.77,49377.67
+2025-02,Technology,Logistics,Expense,39783.37,43272.53
+2025-02, Technology ,Software,Expense,30982.53,31427.2
+2025-02,Technology,Rent,Expense,31511.75,35069.06
+2025-02,Customer Service,Revenue,Income,41894.57,41471.51
+2025-02,Customer Service,Payroll,Expense,32205.01,35289.03
+2025-02,Customer Service,Marketing,Expense,38653.61,48294.48
+2025-02,Customer Service,Utilities,Expense,34641.07,38786.5
+2025-02,Customer Service,Logistics,Expense,41206.55,41376.38
+2025-02, Customer Service ,Software,Expense,23488.42,21377.64
+2025-02,Customer Service,Rent,Expense,42162.01,47885.08
+2025-03,Sales,Revenue,Income,48010.35,49085.26
+2025-03,Sales,Payroll,Expense,16264.37,15708.23
+2025-03,Sales,Marketing,Expense,9194.46,8433.64
+2025-03,Sales,Utilities,Expense,34404.58,29473.17
+2025-03,Sales,Logistics,Expense,47856.22,39952.67
+2025-03,Sales,Software,Expense,18531.43,19480.35
+2025-03,Sales,Rent,Expense,12754.87,13588.36
+2025-03,Operations,Revenue,Income,35757.74,47779.43
+2025-03,Operations,Payroll,Expense,36914.57,44565.0
+2025-03,Operations,Marketing,Expense,39456.85,36007.34
+2025-03,Operations,Utilities,Expense,15607.65,14986.03
+2025-03,Operations,Logistics,Expense,45418.77,45269.31
+2025-03,Operations,Software,Expense,,11746.46
+2025-03,Operations,Rent,Expense,11602.39,13629.13
+2025-03,Administration,Revenue,Income,47062.81,47390.79
+2025-03,Administration,Payroll,Expense,13098.49,12810.73
+2025-03,Administration,Marketing,Expense,26860.39,31297.67
+2025-03,Administration,Utilities,Expense,17068.09,15521.5
+2025-03,Administration,Logistics,Expense,9970.94,10093.28
+2025-03,Administration,Software,Expense,36084.54,37174.71
+2025-03,Administration,Rent,Expense,19914.56,17776.57
+2025-03,Technology,Revenue,Income,45461.14,38425.39
+2025-03,Technology,Payroll,Expense,14039.92,14895.14
+2025-03,Technology,Marketing,Expense,14425.69,12761.95
+2025-03,Technology,Utilities,Expense,36938.66,30562.12
+2025-03,Technology,Logistics,Expense,15128.65,17017.34
+2025-03,Technology,Software,Expense,22930.92,23690.97
+2025-03,Technology,Rent,Expense,44421.75,59869.87
+2025-03,Customer Service,Revenue,Income,16437.81,16998.08
+2025-03,Customer Service,Payroll,Expense,34041.03,31222.09
+2025-03,Customer Service,Marketing,Expense,36556.99,43295.84
+2025-03,Customer Service,Utilities,Expense,29053.79,28364.07
+2025-03,Customer Service,Logistics,Expense,14123.01,15095.17
+2025-03,Customer Service,Software,Expense,15330.55,15623.59
+2025-03,Customer Service,Rent,Expense,30525.83,21846.63
+2025-04,Sales,Revenue,Income,20258.15,22925.53
+2025-04,Sales,Payroll,Expense,31731.16,29598.38
+2025-04,Sales,Marketing,Expense,42010.71,39144.92
+2025-04,Sales,Utilities,Expense,7766.66,8182.7
+2025-04,Sales,Logistics,Expense,40085.77,40791.44
+2025-04,Sales,Software,Expense,33512.88,32677.16
+2025-04,Sales,Rent,Expense,19835.65,23719.47
+2025-04,Operations,Revenue,Income,36915.78,31874.87
+2025-04,Operations,Payroll,Expense,45621.19,44759.63
+2025-04,Operations,Marketing,Expense,23724.01,28606.78
+2025-04,Operations,Utilities,Expense,47312.51,41826.14
+2025-04, Operations ,Logistics,Expense,41752.17,35727.88
+2025-04,Operations,Software,Expense,13252.03,13112.89
+2025-04,Operations,Rent,Expense,40045.73,40821.57
+2025-04,Administration,Revenue,Income,30471.16,26202.3
+2025-04,Administration,Payroll,Expense,21605.73,25045.17
+2025-04,Administration,Marketing,Expense,9910.8,9356.86
+2025-04,Administration,Utilities,Expense,21492.06,17428.45
+2025-04,Administration,Logistics,Expense,15150.83,9203.4
+2025-04,Administration,Software,Expense,33244.62,30603.47
+2025-04,Administration,Rent,Expense,20501.57,20094.64
+2025-04,Technology,Revenue,Income,33235.91,41134.37
+2025-04,Technology,Payroll,Expense,16944.27,19101.11
+2025-04,Technology,Marketing,Expense,14913.5,16050.87
+2025-04,Technology,Utilities,Expense,51566.7,51106.98
+2025-04,Technology,Logistics,Expense,48391.9,35712.34
+2025-04,Technology,Software,Expense,31622.24,28734.03
+2025-04,Technology,Rent,Expense,39900.67,35467.44
+2025-04,Customer Service,Revenue,Income,19105.44,17166.79
+2025-04,Customer Service,Payroll,Expense,8326.27,7639.58
+2025-04,Customer Service,Marketing,Expense,35217.36,30602.31
+2025-04,Customer Service,Utilities,Expense,22624.17,23225.81
+2025-04,Customer Service,Logistics,Expense,21976.33,20890.77
+2025-04,Customer Service,Software,Expense,45963.01,45692.9
+2025-04,Customer Service,Rent,Expense,39138.74,48747.44
+2025-05,Sales,Revenue,Income,14431.23,15235.23
+2025-05,Sales,Payroll,Expense,30777.54,30761.54
+2025-05,Sales,Marketing,Expense,35465.49,28659.91
+2025-05,Sales,Utilities,Expense,44393.88,42369.28
+2025-05,Sales,Logistics,Expense,45082.5,41368.49
+2025-05,Sales,Software,Expense,34373.13,37653.76
+2025-05,Sales,Rent,Expense,9393.54,10989.49
+2025-05,Operations,Revenue,Income,24743.72,24034.41
+2025-05,Operations,Payroll,Expense,25399.18,28771.89
+2025-05,Operations,Marketing,Expense,29742.62,30140.49
+2025-05,Operations,Utilities,Expense,23185.66,19718.37
+2025-05,Operations,Logistics,Expense,15609.62,17324.73
+2025-05,Operations,Software,Expense,9752.88,11604.67
+2025-05,Operations,Rent,Expense,15568.69,19138.21
+2025-05,Administration,Revenue,Income,8707.59,8261.73
+2025-05,Administration,Payroll,Expense,11873.14,10041.0
+2025-05,Administration,Marketing,Expense,49044.24,56662.26
+2025-05,Administration,Utilities,Expense,23792.86,24197.94
+2025-05,Administration,Logistics,Expense,33166.35,38200.68
+2025-05,Administration,Software,Expense,15381.48,16250.02
+2025-05,Administration,Rent,Expense,11349.75,10425.29
+2025-05,Technology,Revenue,Income,31683.68,31512.58
+2025-05,Technology,Payroll,Expense,10910.69,9776.0
+2025-05,Technology,Marketing,Expense,32818.92,31394.63
+2025-05, Technology ,Utilities,Expense,25188.31,21598.97
+2025-05,Technology,Logistics,Expense,13890.66,16608.82
+2025-05,Technology,Software,Expense,40197.83,41446.37
+2025-05,Technology,Rent,Expense,14791.23,18402.81
+2025-05,Customer Service,Revenue,Income,29551.32,23961.5
+2025-05,Customer Service,Payroll,Expense,13932.26,16820.64
+2025-05,Customer Service,Marketing,Expense,50784.56,51102.6
+2025-05,Customer Service,Utilities,Expense,26054.23,33518.82
+2025-05,Customer Service,Logistics,Expense,46626.44,58054.44
+2025-05,Customer Service,Software,Expense,14079.85,14851.82
+2025-05,Customer Service,Rent,Expense,20976.61,24426.25
+2025-06,Sales,Revenue,Income,35750.23,46075.22
+2025-06,Sales,Payroll,Expense,35494.51,35082.34
+2025-06,Sales,Marketing,Expense,36360.76,25721.24
+2025-06,Sales,Utilities,Expense,41381.63,46492.66
+2025-06,Sales,Logistics,Expense,18272.27,16254.66
+2025-06,Sales,Software,Expense,38878.97,40627.0
+2025-06,Sales,Rent,Expense,39095.87,40860.08
+2025-06,Operations,Revenue,Income,43876.84,54813.54
+2025-06,Operations,Payroll,Expense,39875.64,37810.65
+2025-06,Operations,Marketing,Expense,21042.22,20511.2
+2025-06,Operations,Utilities,Expense,18843.49,20870.94
+2025-06,Operations,Logistics,Expense,29147.01,26170.77
+2025-06,Operations,Software,Expense,32890.08,32432.68
+2025-06,Operations,Rent,Expense,25377.56,29958.1
+2025-06,Administration,Revenue,Income,53135.04,48557.08
+2025-06,Administration,Payroll,Expense,19509.86,16854.94
+2025-06,Administration,Marketing,Expense,48149.08,48508.22
+2025-06,Administration,Utilities,Expense,24642.73,24682.78
+2025-06,Administration,Logistics,Expense,35997.28,27362.38
+2025-06,Administration,Software,Expense,24771.9,23927.08
+2025-06,Administration,Rent,Expense,21611.88,20387.99
+2025-06,Technology,Revenue,Income,28459.12,33569.84
+2025-06,Technology,Payroll,Expense,34553.83,39482.88
+2025-06,Technology,Marketing,Expense,42377.02,50938.08
+2025-06,Technology,Utilities,Expense,7654.26,8116.34
+2025-06, Technology ,Logistics,Expense,21603.62,23636.15
+2025-06,Technology,Software,Expense,32065.52,32068.77
+2025-06,Technology,Rent,Expense,26607.06,35229.81
+2025-06,Customer Service,Revenue,Income,9239.07,9592.92
+2025-06,Customer Service,Payroll,Expense,36910.8,37529.11
+2025-06,Customer Service,Marketing,Expense,10046.0,11370.89
+2025-06,Customer Service,Utilities,Expense,21002.73,21232.31
+2025-06,Customer Service,Logistics,Expense,32994.93,46445.94
+2025-06,Customer Service,Software,Expense,38057.14,38544.24
+2025-06,Customer Service,Rent,Expense,19649.27,18978.86
+2025-07,Sales,Revenue,Income,8499.99,10092.39
+2025-07,Sales,Payroll,Expense,18001.92,22215.01
+2025-07,Sales,Marketing,Expense,11251.5,10219.92
+2025-07,Sales,Utilities,Expense,55316.74,46639.9
+2025-07,Sales,Logistics,Expense,12868.46,12961.48
+2025-07,Sales,Software,Expense,22186.09,21829.38
+2025-07,Sales,Rent,Expense,37300.83,36167.24
+2025-07,Operations,Revenue,Income,17340.32,20074.39
+2025-07,Operations,Payroll,Expense,55356.71,53799.58
+2025-07,Operations,Marketing,Expense,48515.9,47270.67
+2025-07,Operations,Utilities,Expense,24502.79,30057.84
+2025-07,Operations,Logistics,Expense,39447.63,42434.82
+2025-07,Operations,Software,Expense,9964.1,12672.88
+2025-07,Operations,Rent,Expense,42980.48,39425.46
+2025-07,Administration,Revenue,Income,48687.05,49726.36
+2025-07,Administration,Payroll,Expense,17048.04,17274.21
+2025-07,Administration,Marketing,Expense,34308.06,36032.46
+2025-07,Administration,Utilities,Expense,15520.36,14365.56
+2025-07,Administration,Logistics,Expense,7781.09,9357.06
+2025-07,Administration,Software,Expense,26141.05,30244.99
+2025-07,Administration,Rent,Expense,16329.31,15001.45
+2025-07,Technology,Revenue,Income,36426.23,45038.05
+2025-07,Technology,Payroll,Expense,41989.47,52574.55
+2025-07,Technology,Marketing,Expense,,36317.35
+2025-07,Technology,Utilities,Expense,28309.4,29158.29
+2025-07,Technology,Logistics,Expense,14013.71,12874.78
+2025-07,Technology,Software,Expense,27844.08,30479.59
+2025-07,Technology,Rent,Expense,13493.92,10381.74
+2025-07,Customer Service,Revenue,Income,49589.94,45668.7
+2025-07,Customer Service,Payroll,Expense,10303.0,10082.72
+2025-07,Customer Service,Marketing,Expense,20180.64,23089.62
+2025-07,Customer Service,Utilities,Expense,37199.37,34144.11
+2025-07,Customer Service,Logistics,Expense,18992.31,18440.24
+2025-07,Customer Service,Software,Expense,16291.54,22191.8
+2025-07,Customer Service,Rent,Expense,29116.61,29781.86
+2025-08,Sales,Revenue,Income,46456.97,42153.61
+2025-08,Sales,Payroll,Expense,24174.37,24822.91
+2025-08,Sales,Marketing,Expense,31055.56,39671.4
+2025-08,Sales,Utilities,Expense,10399.5,10325.69
+2025-08,Sales,Logistics,Expense,9135.88,10498.08
+2025-08,Sales,Software,Expense,46915.42,47938.95
+2025-08,Sales,Rent,Expense,19919.5,17365.25
+2025-08,Operations,Revenue,Income,25763.36,20759.71
+2025-08,Operations,Payroll,Expense,37992.69,39985.59
+2025-08,Operations,Marketing,Expense,23653.4,25531.95
+2025-08,Operations,Utilities,Expense,40436.26,39196.96
+2025-08,Operations,Logistics,Expense,18894.81,22680.56
+2025-08,Operations,Software,Expense,38837.53,35391.11
+2025-08,Operations,Rent,Expense,35158.23,36952.09
+2025-08,Administration,Revenue,Income,34892.53,36955.92
+2025-08,Administration,Payroll,Expense,10915.7,9880.16
+2025-08,Administration,Marketing,Expense,27961.44,30708.63
+2025-08,Administration,Utilities,Expense,25206.11,28175.29
+2025-08,Administration,Logistics,Expense,29357.8,23767.7
+2025-08,Administration,Software,Expense,41848.34,52899.51
+2025-08, Administration ,Rent,Expense,16135.57,13334.39
+2025-08,Technology,Revenue,Income,18203.65,16282.62
+2025-08,Technology,Payroll,Expense,41487.56,38718.86
+2025-08,Technology,Marketing,Expense,43517.52,51115.16
+2025-08,Technology,Utilities,Expense,52742.37,52631.64
+2025-08,Technology,Logistics,Expense,37588.92,35065.18
+2025-08,Technology,Software,Expense,34986.43,36194.4
+2025-08,Technology,Rent,Expense,26644.43,27664.3
+2025-08,Customer Service,Revenue,Income,11407.25,13157.45
+2025-08,Customer Service,Payroll,Expense,23339.88,22251.76
+2025-08,Customer Service,Marketing,Expense,19673.42,17172.99
+2025-08,Customer Service,Utilities,Expense,43329.11,40193.03
+2025-08,Customer Service,Logistics,Expense,18600.71,18214.98
+2025-08,Customer Service,Software,Expense,32192.01,36738.91
+2025-08,Customer Service,Rent,Expense,35441.85,37180.47
+2025-09,Sales,Revenue,Income,12110.55,12470.15
+2025-09,Sales,Payroll,Expense,23157.82,22770.68
+2025-09,Sales,Marketing,Expense,29016.22,25025.72
+2025-09,Sales,Utilities,Expense,38134.45,30085.39
+2025-09,Sales,Logistics,Expense,30810.72,32224.8
+2025-09,Sales,Software,Expense,16918.84,18905.25
+2025-09,Sales,Rent,Expense,21535.72,18280.16
+2025-09,Operations,Revenue,Income,51103.19,45389.71
+2025-09,Operations,Payroll,Expense,14836.63,16542.72
+2025-09,Operations,Marketing,Expense,19515.15,22092.57
+2025-09,Operations,Utilities,Expense,28055.78,22152.91
+2025-09,Operations,Logistics,Expense,44881.69,40961.15
+2025-09,Operations,Software,Expense,12005.71,11574.78
+2025-09,Operations,Rent,Expense,20106.65,16531.04
+2025-09,Administration,Revenue,Income,17522.65,13807.49
+2025-09,Administration,Payroll,Expense,17903.56,19679.17
+2025-09,Administration,Marketing,Expense,33042.49,33407.69
+2025-09,Administration,Utilities,Expense,49644.52,47584.17
+2025-09,Administration,Logistics,Expense,29211.99,27867.74
+2025-09,Administration,Software,Expense,46960.13,41563.75
+2025-09,Administration,Rent,Expense,25929.37,31090.89
+2025-09,Technology,Revenue,Income,21694.85,21511.04
+2025-09,Technology,Payroll,Expense,23471.74,21996.36
+2025-09,Technology,Marketing,Expense,32832.24,38454.84
+2025-09,Technology,Utilities,Expense,39787.77,40714.89
+2025-09,Technology,Logistics,Expense,8781.95,8498.51
+2025-09,Technology,Software,Expense,8115.29,8718.22
+2025-09,Technology,Rent,Expense,30448.58,31971.92
+2025-09,Customer Service,Revenue,Income,28244.93,23399.14
+2025-09,Customer Service,Payroll,Expense,30698.64,30393.65
+2025-09,Customer Service,Marketing,Expense,14350.84,14365.55
+2025-09,Customer Service,Utilities,Expense,35438.34,29785.1
+2025-09,Customer Service,Logistics,Expense,23215.51,22038.8
+2025-09,Customer Service,Software,Expense,15515.18,14539.09
+2025-09,Customer Service,Rent,Expense,11950.22,13913.94
+2025-10,Sales,Revenue,Income,24629.13,27880.57
+2025-10,Sales,Payroll,Expense,28911.48,31835.57
+2025-10,Sales,Marketing,Expense,40667.91,32693.86
+2025-10,Sales,Utilities,Expense,45496.6,45430.12
+2025-10,Sales,Logistics,Expense,35682.5,39956.77
+2025-10,Sales,Software,Expense,15277.23,13673.48
+2025-10, Sales ,Rent,Expense,21630.28,22875.16
+2025-10,Operations,Revenue,Income,38278.59,36039.98
+2025-10,Operations,Payroll,Expense,33015.7,39673.01
+2025-10,Operations,Marketing,Expense,33559.06,32643.14
+2025-10,Operations,Utilities,Expense,38184.04,34786.81
+2025-10,Operations,Logistics,Expense,22831.09,19984.1
+2025-10,Operations,Software,Expense,49303.04,43764.22
+2025-10,Operations,Rent,Expense,40701.97,42859.73
+2025-10,Administration,Revenue,Income,24645.6,21776.48
+2025-10,Administration,Payroll,Expense,48251.33,55669.84
+2025-10,Administration,Marketing,Expense,18770.0,21986.46
+2025-10,Administration,Utilities,Expense,11857.13,12832.8
+2025-10,Administration,Logistics,Expense,24269.3,27828.14
+2025-10,Administration,Software,Expense,26640.41,27395.47
+2025-10,Administration,Rent,Expense,20186.07,17741.99
+2025-10,Technology,Revenue,Income,34297.27,35194.62
+2025-10,Technology,Payroll,Expense,47274.93,48929.05
+2025-10,Technology,Marketing,Expense,40388.01,33118.98
+2025-10,Technology,Utilities,Expense,32473.9,28374.62
+2025-10,Technology,Logistics,Expense,23984.46,22869.77
+2025-10,Technology,Software,Expense,42421.47,53706.75
+2025-10,Technology,Rent,Expense,26732.96,27270.17
+2025-10,Customer Service,Revenue,Income,24554.69,23121.13
+2025-10,Customer Service,Payroll,Expense,22291.05,20955.03
+2025-10,Customer Service,Marketing,Expense,45935.71,44133.79
+2025-10,Customer Service,Utilities,Expense,18573.96,22906.32
+2025-10,Customer Service,Logistics,Expense,47023.03,35536.69
+2025-10,Customer Service,Software,Expense,41847.03,42211.54
+2025-10,Customer Service,Rent,Expense,42988.87,42629.86
+2025-11,Sales,Revenue,Income,43659.23,56579.35
+2025-11,Sales,Payroll,Expense,34080.03,37853.26
+2025-11,Sales,Marketing,Expense,47065.28,39654.17
+2025-11,Sales,Utilities,Expense,12584.1,13036.43
+2025-11,Sales,Logistics,Expense,36822.69,28627.04
+2025-11,Sales,Software,Expense,43368.04,47447.22
+2025-11,Sales,Rent,Expense,9908.12,10418.5
+2025-11,Operations,Revenue,Income,12486.83,15062.27
+2025-11,Operations,Payroll,Expense,46550.28,47840.59
+2025-11,Operations,Marketing,Expense,20328.31,20535.04
+2025-11,Operations,Utilities,Expense,18082.05,17404.57
+2025-11,Operations,Logistics,Expense,24707.16,20049.53
+2025-11,Operations,Software,Expense,42078.51,40249.38
+2025-11,Operations,Rent,Expense,29365.82,33667.85
+2025-11,Administration,Revenue,Income,36811.01,31188.29
+2025-11,Administration,Payroll,Expense,38978.1,38883.48
+2025-11,Administration,Marketing,Expense,9654.78,9915.55
+2025-11, Administration ,Utilities,Expense,28029.89,29378.64
+2025-11,Administration,Logistics,Expense,23758.89,26807.47
+2025-11,Administration,Software,Expense,46355.59,40593.15
+2025-11,Administration,Rent,Expense,41452.89,35684.31
+2025-11,Technology,Revenue,Income,24820.88,21299.85
+2025-11,Technology,Payroll,Expense,18598.2,18620.46
+2025-11,Technology,Marketing,Expense,12008.04,11820.7
+2025-11,Technology,Utilities,Expense,13064.17,14481.49
+2025-11,Technology,Logistics,Expense,25116.82,28793.58
+2025-11,Technology,Software,Expense,14420.02,10511.42
+2025-11,Technology,Rent,Expense,36626.89,30064.94
+2025-11,Customer Service,Revenue,Income,11260.46,9455.56
+2025-11,Customer Service,Payroll,Expense,21688.46,23514.29
+2025-11,Customer Service,Marketing,Expense,47064.02,46668.32
+2025-11,Customer Service,Utilities,Expense,43304.08,44709.8
+2025-11,Customer Service,Logistics,Expense,42625.91,42164.23
+2025-11,Customer Service,Software,Expense,25691.22,24326.1
+2025-11,Customer Service,Rent,Expense,18559.84,16691.53
+2025-12,Sales,Revenue,Income,27193.26,30472.55
+2025-12,Sales,Payroll,Expense,17212.22,21944.37
+2025-12,Sales,Marketing,Expense,20364.4,19604.85
+2025-12,Sales,Utilities,Expense,25153.16,27677.77
+2025-12,Sales,Logistics,Expense,38260.45,41615.02
+2025-12,Sales,Software,Expense,16743.61,18471.19
+2025-12,Sales,Rent,Expense,29947.07,30138.63
+2025-12,Operations,Revenue,Income,35633.54,38366.24
+2025-12,Operations,Payroll,Expense,8436.73,11793.93
+2025-12,Operations,Marketing,Expense,28670.01,31700.99
+2025-12,Operations,Utilities,Expense,12131.81,9691.59
+2025-12,Operations,Logistics,Expense,27849.34,28576.89
+2025-12,Operations,Software,Expense,23453.96,21603.96
+2025-12,Operations,Rent,Expense,38056.72,36716.19
+2025-12,Administration,Revenue,Income,44397.32,46333.57
+2025-12,Administration,Payroll,Expense,40273.17,33967.35
+2025-12,Administration,Marketing,Expense,15295.54,15936.09
+2025-12,Administration,Utilities,Expense,35839.76,38552.65
+2025-12,Administration,Logistics,Expense,27964.51,23457.12
+2025-12,Administration,Software,Expense,45604.73,49003.67
+2025-12,Administration,Rent,Expense,38639.71,47434.58
+2025-12,Technology,Revenue,Income,10441.51,10406.35
+2025-12,Technology,Payroll,Expense,27408.75,29893.43
+2025-12,Technology,Marketing,Expense,26985.54,23279.11
+2025-12,Technology,Utilities,Expense,39034.33,33594.14
+2025-12,Technology,Logistics,Expense,9708.7,11228.77
+2025-12,Technology,Software,Expense,48623.46,38350.29
+2025-12,Technology,Rent,Expense,25825.29,23334.36
+2025-12,Customer Service,Revenue,Income,41994.07,38657.03
+2025-12,Customer Service,Payroll,Expense,54069.64,37340.32
+2025-12,Customer Service,Marketing,Expense,49295.55,39758.22
+2025-12,Customer Service,Utilities,Expense,30934.62,32834.49
+2025-12,Customer Service,Logistics,Expense,21693.95,22797.09
+2025-12,Customer Service,Software,Expense,38606.22,37465.53
+2025-12,Customer Service,Rent,Expense,37258.14,32009.66
+2026-01,Sales,Revenue,Income,28567.82,29429.07
+2026-01,Sales,Payroll,Expense,43621.62,54744.99
+2026-01,Sales,Marketing,Expense,17394.48,16266.56
+2026-01,Sales,Utilities,Expense,17466.75,20031.43
+2026-01,Sales,Logistics,Expense,38811.89,36117.57
+2026-01,Sales,Software,Expense,11940.38,11059.13
+2026-01,Sales,Rent,Expense,47079.05,47208.4
+2026-01,Operations,Revenue,Income,9194.6,11630.44
+2026-01,Operations,Payroll,Expense,50383.37,45079.3
+2026-01,Operations,Marketing,Expense,21271.54,24730.49
+2026-01,Operations,Utilities,Expense,39723.54,33625.77
+2026-01,Operations,Logistics,Expense,44479.9,46099.26
+2026-01,Operations,Software,Expense,51800.24,54701.74
+2026-01,Operations,Rent,Expense,10294.08,8658.8
+2026-01,Administration,Revenue,Income,15965.43,18956.8
+2026-01,Administration,Payroll,Expense,37163.02,32778.82
+2026-01,Administration,Marketing,Expense,45924.49,34803.78
+2026-01,Administration,Utilities,Expense,21691.08,20289.15
+2026-01,Administration,Logistics,Expense,18701.93,21704.19
+2026-01,Administration,Software,Expense,46445.47,40111.13
+2026-01,Administration,Rent,Expense,11826.72,11664.19
+2026-01,Technology,Revenue,Income,41285.04,42318.12
+2026-01,Technology,Payroll,Expense,44254.33,42877.36
+2026-01,Technology,Marketing,Expense,34351.52,31494.75
+2026-01,Technology,Utilities,Expense,20031.48,18533.26
+2026-01,Technology,Logistics,Expense,14813.53,13163.07
+2026-01,Technology,Software,Expense,23099.67,24581.15
+2026-01,Technology,Rent,Expense,35371.48,26543.38
+2026-01,Customer Service,Revenue,Income,26096.06,24111.32
+2026-01,Customer Service,Payroll,Expense,40615.7,37366.97
+2026-01,Customer Service,Marketing,Expense,8696.5,9949.1
+2026-01,Customer Service,Utilities,Expense,17286.71,18443.4
+2026-01,Customer Service,Logistics,Expense,26901.61,26124.25
+2026-01,Customer Service,Software,Expense,42600.89,45664.51
+2026-01,Customer Service,Rent,Expense,53724.68,47387.16
+2026-02,Sales,Revenue,Income,19764.08,21611.07
+2026-02,Sales,Payroll,Expense,38833.44,41356.3
+2026-02,Sales,Marketing,Expense,31538.06,24854.1
+2026-02,Sales,Utilities,Expense,23716.4,26411.43
+2026-02,Sales,Logistics,Expense,35209.96,33011.89
+2026-02,Sales,Software,Expense,43696.34,42208.99
+2026-02,Sales,Rent,Expense,37379.54,30136.22
+2026-02,Operations,Revenue,Income,47970.07,47656.27
+2026-02,Operations,Payroll,Expense,21108.53,21648.53
+2026-02,Operations,Marketing,Expense,37418.95,41930.26
+2026-02,Operations,Utilities,Expense,35278.69,33001.74
+2026-02,Operations,Logistics,Expense,42091.88,36016.23
+2026-02,Operations,Software,Expense,25055.09,22964.6
+2026-02,Operations,Rent,Expense,31081.7,32014.09
+2026-02,Administration,Revenue,Income,21625.58,19662.98
+2026-02,Administration,Payroll,Expense,20055.77,15151.0
+2026-02,Administration,Marketing,Expense,31870.39,35588.76
+2026-02,Administration,Utilities,Expense,21807.63,26396.83
+2026-02,Administration,Logistics,Expense,13761.85,11784.79
+2026-02,Administration,Software,Expense,23244.7,19953.55
+2026-02,Administration,Rent,Expense,33602.76,49491.13
+2026-02,Technology,Revenue,Income,14379.61,17506.03
+2026-02,Technology,Payroll,Expense,40897.7,32908.59
+2026-02,Technology,Marketing,Expense,49054.11,42277.84
+2026-02,Technology,Utilities,Expense,17302.15,17730.97
+2026-02,Technology,Logistics,Expense,16668.82,16560.98
+2026-02,Technology,Software,Expense,55215.92,44937.3
+2026-02,Technology,Rent,Expense,21504.78,23797.17
+2026-02,Customer Service,Revenue,Income,31951.04,34252.83
+2026-02,Customer Service,Payroll,Expense,45279.3,49955.67
+2026-02,Customer Service,Marketing,Expense,28849.92,25177.41
+2026-02,Customer Service,Utilities,Expense,38081.95,34407.62
+2026-02,Customer Service,Logistics,Expense,12311.1,13719.56
+2026-02,Customer Service,Software,Expense,14488.02,15466.71
+2026-02,Customer Service,Rent,Expense,17327.22,11885.9
+2026-03,Sales,Revenue,Income,18424.89,20871.01
+2026-03,Sales,Payroll,Expense,24252.56,21289.6
+2026-03,Sales,Marketing,Expense,38804.15,45675.32
+2026-03,Sales,Utilities,Expense,50091.88,47474.92
+2026-03,Sales,Logistics,Expense,35686.12,30636.55
+2026-03,Sales,Software,Expense,40332.91,36339.53
+2026-03,Sales,Rent,Expense,25748.76,25381.73
+2026-03,Operations,Revenue,Income,31984.44,34993.94
+2026-03,Operations,Payroll,Expense,32566.56,35355.69
+2026-03,Operations,Marketing,Expense,32689.35,33456.45
+2026-03,Operations,Utilities,Expense,32873.0,30363.52
+2026-03,Operations,Logistics,Expense,36407.31,34614.0
+2026-03,Operations,Software,Expense,43851.73,38807.6
+2026-03,Operations,Rent,Expense,47198.64,50656.93
+2026-03,Administration,Revenue,Income,49768.54,41224.74
+2026-03,Administration,Payroll,Expense,38679.52,42280.4
+2026-03,Administration,Marketing,Expense,27404.89,27879.74
+2026-03,Administration,Utilities,Expense,44360.48,44344.17
+2026-03,Administration,Logistics,Expense,49596.49,48707.81
+2026-03,Administration,Software,Expense,13146.43,13324.02
+2026-03,Administration,Rent,Expense,10504.93,8651.28
+2026-03,Technology,Revenue,Income,38598.05,36383.34
+2026-03,Technology,Payroll,Expense,49477.23,52086.06
+2026-03,Technology,Marketing,Expense,18909.32,16128.8
+2026-03,Technology,Utilities,Expense,36253.88,34000.72
+2026-03,Technology,Logistics,Expense,44133.51,44714.78
+2026-03,Technology,Software,Expense,15975.92,17672.5
+2026-03,Technology,Rent,Expense,31936.76,24618.91
+2026-03,Customer Service,Revenue,Income,9975.53,10308.92
+2026-03,Customer Service,Payroll,Expense,12406.44,11298.98
+2026-03,Customer Service,Marketing,Expense,44320.03,40779.71
+2026-03,Customer Service,Utilities,Expense,,20844.69
+2026-03,Customer Service,Logistics,Expense,50088.25,42499.98
+2026-03,Customer Service,Software,Expense,37276.73,41070.15
+2026-03,Customer Service,Rent,Expense,10309.0,11435.87
+2026-04,Sales,Revenue,Income,18689.62,18463.93
+2026-04,Sales,Payroll,Expense,51361.24,49575.68
+2026-04,Sales,Marketing,Expense,13670.55,14649.09
+2026-04,Sales,Utilities,Expense,48278.43,53545.57
+2026-04,Sales,Logistics,Expense,12447.49,10547.98
+2026-04,Sales,Software,Expense,30397.53,28153.91
+2026-04,Sales,Rent,Expense,44434.53,49041.77
+2026-04,Operations,Revenue,Income,31359.21,32035.78
+2026-04,Operations,Payroll,Expense,36858.07,36688.03
+2026-04,Operations,Marketing,Expense,10553.27,8847.33
+2026-04,Operations,Utilities,Expense,34050.16,36684.76
+2026-04,Operations,Logistics,Expense,8009.68,7621.09
+2026-04,Operations,Software,Expense,43274.86,42427.66
+2026-04,Operations,Rent,Expense,22243.72,19357.7
+2026-04,Administration,Revenue,Income,17032.72,17404.19
+2026-04,Administration,Payroll,Expense,16797.98,17025.4
+2026-04,Administration,Marketing,Expense,29039.69,24662.62
+2026-04,Administration,Utilities,Expense,46213.07,49136.08
+2026-04,Administration,Logistics,Expense,14262.95,16243.24
+2026-04,Administration,Software,Expense,13897.25,10673.83
+2026-04,Administration,Rent,Expense,16503.1,17440.71
+2026-04,Technology,Revenue,Income,17244.64,15817.31
+2026-04,Technology,Payroll,Expense,22773.31,20961.08
+2026-04,Technology,Marketing,Expense,25167.93,24707.59
+2026-04,Technology,Utilities,Expense,33241.61,27678.5
+2026-04,Technology,Logistics,Expense,31984.52,35841.18
+2026-04,Technology,Software,Expense,42297.46,47274.05
+2026-04,Technology,Rent,Expense,25392.97,27726.53
+2026-04,Customer Service,Revenue,Income,20065.35,18083.05
+2026-04,Customer Service,Payroll,Expense,17481.86,24044.98
+2026-04,Customer Service,Marketing,Expense,20499.94,28732.27
+2026-04,Customer Service,Utilities,Expense,16155.19,19308.62
+2026-04,Customer Service,Logistics,Expense,43714.41,38192.63
+2026-04,Customer Service,Software,Expense,15271.32,13412.36
+2026-04,Customer Service,Rent,Expense,27252.37,22424.95
+2026-05, Sales ,Revenue,Income,16450.37,13803.49
+2026-05,Sales,Payroll,Expense,34048.1,30445.09
+2026-05,Sales,Marketing,Expense,,33261.08
+2026-05,Sales,Utilities,Expense,44764.71,41969.54
+2026-05,Sales,Logistics,Expense,7567.73,6904.78
+2026-05,Sales,Software,Expense,43294.85,43299.93
+2026-05,Sales,Rent,Expense,44935.17,39685.06
+2026-05,Operations,Revenue,Income,22326.86,20156.88
+2026-05,Operations,Payroll,Expense,23057.68,26363.48
+2026-05,Operations,Marketing,Expense,39941.86,49576.07
+2026-05,Operations,Utilities,Expense,9758.72,10130.63
+2026-05,Operations,Logistics,Expense,47600.08,51160.11
+2026-05,Operations,Software,Expense,10299.14,11581.24
+2026-05,Operations,Rent,Expense,37449.22,32832.29
+2026-05,Administration,Revenue,Income,53219.96,48328.5
+2026-05,Administration,Payroll,Expense,14703.22,12086.13
+2026-05,Administration,Marketing,Expense,41480.96,38595.21
+2026-05,Administration,Utilities,Expense,17755.03,14852.24
+2026-05,Administration,Logistics,Expense,41880.85,38651.35
+2026-05,Administration,Software,Expense,39182.83,29582.53
+2026-05,Administration,Rent,Expense,13398.45,16710.73
+2026-05,Technology,Revenue,Income,,41955.99
+2026-05,Technology,Payroll,Expense,18239.87,17262.83
+2026-05,Technology,Marketing,Expense,35581.18,33808.26
+2026-05,Technology,Utilities,Expense,22225.86,22442.2
+2026-05,Technology,Logistics,Expense,18331.41,17829.37
+2026-05,Technology,Software,Expense,7097.35,8774.28
+2026-05,Technology,Rent,Expense,50174.66,42828.73
+2026-05,Customer Service,Revenue,Income,15232.05,12189.88
+2026-05,Customer Service,Payroll,Expense,20481.53,24884.48
+2026-05,Customer Service,Marketing,Expense,27775.53,24881.34
+2026-05,Customer Service,Utilities,Expense,8843.44,8999.39
+2026-05,Customer Service,Logistics,Expense,15420.04,18596.92
+2026-05, Customer Service ,Software,Expense,47469.08,47168.6
+2026-05,Customer Service,Rent,Expense,19000.86,16711.05
+2026-06,Sales,Revenue,Income,29489.99,30319.3
+2026-06,Sales,Payroll,Expense,33880.09,33487.31
+2026-06,Sales,Marketing,Expense,9598.7,10118.16
+2026-06,Sales,Utilities,Expense,26623.59,31023.66
+2026-06,Sales,Logistics,Expense,39879.35,44065.69
+2026-06,Sales,Software,Expense,19491.4,20277.3
+2026-06,Sales,Rent,Expense,15942.6,16955.4
+2026-06,Operations,Revenue,Income,18060.69,16120.69
+2026-06,Operations,Payroll,Expense,21660.93,22160.03
+2026-06,Operations,Marketing,Expense,38836.52,37911.65
+2026-06,Operations,Utilities,Expense,24938.53,27567.24
+2026-06,Operations,Logistics,Expense,20141.26,18275.74
+2026-06,Operations,Software,Expense,32253.15,33903.77
+2026-06,Operations,Rent,Expense,28995.43,27958.81
+2026-06,Administration,Revenue,Income,45002.68,45390.56
+2026-06,Administration,Payroll,Expense,36395.97,36643.5
+2026-06,Administration,Marketing,Expense,13183.48,14572.37
+2026-06,Administration,Utilities,Expense,32941.05,27046.37
+2026-06,Administration,Logistics,Expense,12513.11,13273.37
+2026-06,Administration,Software,Expense,29492.04,27029.03
+2026-06,Administration,Rent,Expense,37787.03,38871.38
+2026-06,Technology,Revenue,Income,34335.48,34511.98
+2026-06,Technology,Payroll,Expense,37006.43,41433.64
+2026-06,Technology,Marketing,Expense,15175.5,13169.5
+2026-06,Technology,Utilities,Expense,10460.03,13352.95
+2026-06,Technology,Logistics,Expense,16140.91,15308.96
+2026-06,Technology,Software,Expense,43437.23,53398.22
+2026-06,Technology,Rent,Expense,39495.93,43108.61
+2026-06,Customer Service,Revenue,Income,21462.74,20009.1
+2026-06,Customer Service,Payroll,Expense,23199.23,14457.23
+2026-06,Customer Service,Marketing,Expense,32271.78,47256.48
+2026-06,Customer Service,Utilities,Expense,49724.65,46526.25
+2026-06,Customer Service,Logistics,Expense,31732.04,33102.69
+2026-06,Customer Service,Software,Expense,17761.28,17263.62
+2026-06,Customer Service,Rent,Expense,12044.99,10820.51
+2025-10,Technology,Revenue,Income,34297.27,35194.62
+2026-04,Operations,Marketing,Expense,10553.27,8847.33
+2025-03,Customer Service,Logistics,Expense,14123.01,15095.17
+2025-03,Technology,Utilities,Expense,36938.66,30562.12
+2025-05,Technology,Payroll,Expense,10910.69,9776.0
+2025-04,Operations,Marketing,Expense,23724.01,28606.78
+2025-09,Administration,Utilities,Expense,49644.52,47584.17
+2026-03,Operations,Utilities,Expense,32873.0,30363.52
